@@ -4,7 +4,7 @@
   "documentation": "https://github.com/doudz/homeassistant-zigate/blob/master/Readme.md",
   "issue_tracker": "https://github.com/doudz/homeassistant-zigate/issues",
   "dependencies": ["persistent_notification"],
-  "codeowners": ["doudz"],
-  "requirements": ["zigate==0.40.11"],
-  "version": "20.11.28"
+  "codeowners": ["maximushugus"],
+  "requirements": ["zigate==0.40.13"],
+  "version": "22.03.17"
 }
