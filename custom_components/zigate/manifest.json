@@ -5,6 +5,6 @@
   "issue_tracker": "https://github.com/maximushugus/homeassistant-zigate/issues",
   "dependencies": ["persistent_notification"],
   "codeowners": ["maximushugus"],
-  "requirements": ["git+https://github.com/maximushugus/zigate.git@master#zigate==0.40.21"],
-  "version": "22.03.24"
+  "requirements": ["git+https://github.com/maximushugus/zigate.git@master#zigate==0.40.22"],
+  "version": "22.09.11"
 }
