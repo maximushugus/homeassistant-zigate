@@ -14,7 +14,7 @@ from homeassistant.exceptions import PlatformNotReady
 # from homeassistant import config_entries
 from homeassistant.helpers.entity import Entity
 from homeassistant.helpers.entity_component import EntityComponent
-from homeassistant.components.group import \
+from homeassistant.components.group.entity import \
     ENTITY_ID_FORMAT as GROUP_ENTITY_ID_FORMAT
 from homeassistant.helpers.discovery import load_platform
 from homeassistant.helpers.event import track_time_change
